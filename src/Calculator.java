@@ -15,5 +15,5 @@ public class Calculator {
     public void imprimirMensaje() {
         System.out.println("Hola, soy un método inútil");
     }
-    //Prueba Git Entornos
+    //Prueba Git
 }
